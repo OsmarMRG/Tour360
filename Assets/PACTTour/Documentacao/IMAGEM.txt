@@ -1,0 +1,1 @@
+Professor.png: retrato fornecido pelo utilizador com fundo removido na versão anterior. Nesta versão é projetado na parte frontal da cabeça 3D. Corpo e gestos são aproximações estilizadas. As três fotografias do menu e panorâmicas foram fornecidas pelo utilizador.

@@ -1,0 +1,5 @@
+boas_vindas_v2:
+Bem-vindo à experiência virtual do PACT. Nesta visita, podes explorar os espaços e conhecer o que acontece em cada sala. Seleciona os anéis no chão para avançar. Quando encontrares a identificação de uma sala, seleciona-a para saber mais. Vamos começar?
+
+future_lab_v2:
+Este é o Future Lab, um espaço dedicado à experimentação tecnológica e à criação de novos projetos. Está a ser preparado para reunir computadores, robótica, realidade virtual, impressão 3D e ferramentas de fabrico digital. Aqui será possível testar ideias, desenvolver protótipos e explorar novas aplicações destas tecnologias.

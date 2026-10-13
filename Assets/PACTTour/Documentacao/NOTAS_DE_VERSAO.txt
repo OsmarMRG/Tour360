@@ -1,0 +1,9 @@
+V4
+- Ordem espacial corrigida: ponto01, ponto03, ponto02; ligações recíprocas.
+- Bloqueio curto entre seleções para evitar ativações muito próximas.
+- Título PACT / Corredor. Future Lab apenas na placa e na apresentação.
+- Braços em repouso, respiração subtil e cabeça quase imóvel.
+- Tronco e calças com malhas ajustadas; cabeça menor e projeção facial revista.
+- Legendas mais compactas e mais abaixo.
+- Modelo estilizado provisório: ainda não reproduz o realismo do vídeo.
+- Voz continua provisória.

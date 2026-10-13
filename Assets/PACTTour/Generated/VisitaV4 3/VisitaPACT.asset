@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 674a8941533c5e29911e8654d98d4116, type: 3}
+  m_Name: VisitaPACT
+  m_EditorClassIdentifier: Assembly-CSharp::Pact.VirtualTour.PactTourData
+  nodes:
+  - title: Corredor
+    roomId: corredor
+    panoramaResource: PACTTour/Panoramas/ponto01
+    panorama: {fileID: 2800000, guid: 9b4aff5c6f6258f0a8ae42c0ada5ddd4, type: 3}
+    panoramaRotation: 90
+    narration: 
+    voice: {fileID: 0}
+    showGuide: 0
+    guidePosition: {x: -0.85, y: 0, z: 2.6}
+    links:
+    - label: Continuar
+      targetNode: 1
+      yaw: 0
+      distance: 2.8
+    roomSigns:
+    - title: Future Lab
+      subtitle: Selecionar para conhecer
+      yaw: -160
+      distance: 2.5
+      height: 1.55
+      narration: "Este \xE9 o Future Lab, um espa\xE7o dedicado \xE0 experimenta\xE7\xE3o
+        tecnol\xF3gica e \xE0 cria\xE7\xE3o de novos projetos. Est\xE1 a ser preparado
+        para reunir computadores, rob\xF3tica, realidade virtual, impress\xE3o 3D
+        e ferramentas de fabrico digital. Aqui ser\xE1 poss\xEDvel testar ideias,
+        desenvolver prot\xF3tipos e explorar novas aplica\xE7\xF5es destas tecnologias."
+      voice: {fileID: 8300000, guid: 06033e53b3995c3688a34d3adbd7619a, type: 3}
+  - title: Corredor
+    roomId: corredor
+    panoramaResource: PACTTour/Panoramas/ponto03
+    panorama: {fileID: 2800000, guid: 03ad37ca4d2d55779838ba8fe29c04e5, type: 3}
+    panoramaRotation: 90
+    narration: 
+    voice: {fileID: 0}
+    showGuide: 0
+    guidePosition: {x: -0.85, y: 0, z: 2.6}
+    links:
+    - label: Continuar
+      targetNode: 2
+      yaw: 0
+      distance: 2.8
+    - label: Voltar
+      targetNode: 0
+      yaw: 180
+      distance: 2.8
+    roomSigns: []
+  - title: Corredor
+    roomId: corredor
+    panoramaResource: PACTTour/Panoramas/ponto02
+    panorama: {fileID: 2800000, guid: 6a780c711ed75c14bd6f66484cb6a388, type: 3}
+    panoramaRotation: 90
+    narration: 
+    voice: {fileID: 0}
+    showGuide: 0
+    guidePosition: {x: -0.85, y: 0, z: 2.6}
+    links:
+    - label: Voltar
+      targetNode: 1
+      yaw: 180
+      distance: 2.8
+    roomSigns: []
+  startNode: 0
+  fadeSeconds: 0.22
+  narrateOnEntry: 1
+  onlyOnRoomChange: 1
+  welcomeOnStart: 1
+  welcomeTitle: Bem-vindo ao PACT
+  welcomeText: "Bem-vindo \xE0 experi\xEAncia virtual do PACT. Nesta visita, podes
+    explorar os espa\xE7os e conhecer o que acontece em cada sala. Seleciona os an\xE9is
+    no ch\xE3o para avan\xE7ar. Quando encontrares a identifica\xE7\xE3o de uma sala,
+    seleciona-a para saber mais. Vamos come\xE7ar?"
+  welcomeVoice: {fileID: 8300000, guid: 63f0b7fee7e5586b8a5954f8bf524f4c, type: 3}

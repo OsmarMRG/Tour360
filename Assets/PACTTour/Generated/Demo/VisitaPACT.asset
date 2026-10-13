@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 674a8941533c5e29911e8654d98d4116, type: 3}
+  m_Name: VisitaPACT
+  m_EditorClassIdentifier: Assembly-CSharp::Pact.VirtualTour.PactTourData
+  nodes:
+  - title: Corredor / ponto 1
+    roomId: corredor-teste
+    panoramaResource: PACTTour/Panoramas/ponto01
+    panoramaRotation: 90
+    narration: "Bem-vindo \xE0 visita virtual do PACT. Sou o guia desta demonstra\xE7\xE3o.
+      Aponta para o marcador no ch\xE3o e seleciona-o para avan\xE7ar pelo corredor."
+    voice: {fileID: 8300000, guid: 47420f6c64f55876b4aececa5e056226, type: 3}
+    showGuide: 1
+    guidePosition: {x: -0.85, y: 0, z: 2.6}
+    links:
+    - label: Avancar / 2
+      targetNode: 1
+      yaw: 0
+      distance: 2.5
+  - title: Corredor / ponto 2
+    roomId: corredor-teste
+    panoramaResource: PACTTour/Panoramas/ponto02
+    panoramaRotation: 90
+    narration: "Este \xE9 o segundo ponto do corredor. Na vers\xE3o completa, ao
+      entrares numa sala, o guia apresenta o espa\xE7o e a empresa. Os textos e as
+      vozes podem ser alterados."
+    voice: {fileID: 8300000, guid: e3aeb8c29e33528ab125700d8fc32db3, type: 3}
+    showGuide: 1
+    guidePosition: {x: -0.85, y: 0, z: 2.6}
+    links:
+    - label: Avancar / 3
+      targetNode: 2
+      yaw: 0
+      distance: 2.5
+    - label: Voltar / 1
+      targetNode: 0
+      yaw: 180
+      distance: 2.5
+  - title: Corredor / ponto 3
+    roomId: corredor-teste
+    panoramaResource: PACTTour/Panoramas/ponto03
+    panoramaRotation: 90
+    narration: "Chegaste ao \xFAltimo ponto desta demonstra\xE7\xE3o. Podes olhar
+      em redor, repetir a apresenta\xE7\xE3o ou voltar ao in\xEDcio. O pr\xF3ximo
+      passo \xE9 acrescentar fotografias do interior das salas."
+    voice: {fileID: 8300000, guid: 6af837d534bd56ec8cec4a8d638bfbb0, type: 3}
+    showGuide: 1
+    guidePosition: {x: -0.85, y: 0, z: 2.6}
+    links:
+    - label: Voltar / 2
+      targetNode: 1
+      yaw: 180
+      distance: 2.5
+  startNode: 0
+  fadeSeconds: 0.22
+  narrateOnEntry: 1
+  onlyOnRoomChange: 0

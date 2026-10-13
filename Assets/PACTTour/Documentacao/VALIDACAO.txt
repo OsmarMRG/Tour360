@@ -1,0 +1,2 @@
+Validação local V4: sintaxe C#; três fotografias distintas; mapeamento e ida/volta 0 > 1 > 2 > 1 > 0 com imagens ponto01 > ponto03 > ponto02 > ponto03 > ponto01; setas opostas 0/180 graus; título do corredor; integridade ZIP e recursos.
+Não foi possível compilar ou executar Unity nem validar o aspeto nos óculos.

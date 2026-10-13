@@ -1,0 +1,1030 @@
+{
+  "nodes": [
+    {
+      "title": "Entrada",
+      "resource": "PACTTour/Buildings/Photos/IMG_20261012_100349_00_merged",
+      "rotation": 0.0,
+      "links": [
+        {
+          "target": 1,
+          "yaw": 0.0,
+          "label": "Átrio",
+          "distance": 2.1
+        }
+      ]
+    },
+    {
+      "title": "Átrio",
+      "resource": "PACTTour/Buildings/Photos/IMG_20261012_100625_00_merged",
+      "rotation": 0.0,
+      "links": [
+        {
+          "target": 0,
+          "yaw": -180.0,
+          "label": "Entrada",
+          "distance": 2.1
+        },
+        {
+          "target": 2,
+          "yaw": 0.0,
+          "label": "Receção",
+          "distance": 2.1
+        },
+        {
+          "target": 13,
+          "yaw": -93.6,
+          "label": "Cafetaria · Zona aberta",
+          "distance": 2.1
+        }
+      ]
+    },
+    {
+      "title": "Receção",
+      "resource": "PACTTour/Buildings/Photos/IMG_20261012_100728_00_merged",
+      "rotation": 358.036,
+      "links": [
+        {
+          "target": 1,
+          "yaw": 178.036,
+          "label": "Átrio",
+          "distance": 2.1
+        },
+        {
+          "target": 3,
+          "yaw": 88.036,
+          "label": "Átrio · Elevador",
+          "distance": 2.1
+        },
+        {
+          "target": 7,
+          "yaw": -91.964,
+          "label": "Átrio · Zona de estar",
+          "distance": 2.1
+        }
+      ]
+    },
+    {
+      "title": "Átrio · Elevador",
+      "resource": "PACTTour/Buildings/Photos/IMG_20261012_100832_00_merged",
+      "rotation": 59.236,
+      "links": [
+        {
+          "target": 2,
+          "yaw": -91.964,
+          "label": "Receção",
+          "distance": 2.1
+        },
+        {
+          "target": 4,
+          "yaw": -30.764,
+          "label": "Acesso junto à receção",
+          "distance": 2.1
+        },
+        {
+          "target": 5,
+          "yaw": 145.636,
+          "label": "Zona de convívio",
+          "distance": 2.1
+        }
+      ]
+    },
+    {
+      "title": "Acesso junto à receção",
+      "resource": "PACTTour/Buildings/Photos/IMG_20261012_100919_00_merged",
+      "rotation": 329.236,
+      "links": [
+        {
+          "target": 3,
+          "yaw": 149.236,
+          "label": "Átrio · Elevador",
+          "distance": 2.1
+        }
+      ]
+    },
+    {
+      "title": "Zona de convívio",
+      "resource": "PACTTour/Buildings/Photos/IMG_20261012_101039_00_merged",
+      "rotation": 59.236,
+      "links": [
+        {
+          "target": 3,
+          "yaw": -34.364,
+          "label": "Átrio · Elevador",
+          "distance": 2.1
+        },
+        {
+          "target": 6,
+          "yaw": 59.236,
+          "label": "Acesso aos gabinetes",
+          "distance": 2.1
+        }
+      ]
+    },
+    {
+      "title": "Acesso aos gabinetes",
+      "resource": "PACTTour/Buildings/Photos/IMG_20261012_101149_00_merged",
+      "rotation": 41.236,
+      "links": [
+        {
+          "target": 5,
+          "yaw": -120.764,
+          "label": "Zona de convívio",
+          "distance": 2.1
+        },
+        {
+          "target": 17,
+          "yaw": 41.236,
+          "label": "Gabinetes · Entrada",
+          "distance": 2.1
+        }
+      ]
+    },
+    {
+      "title": "Átrio · Zona de estar",
+      "resource": "PACTTour/Buildings/Photos/IMG_20261012_101337_00_merged",
+      "rotation": 309.273,
+      "links": [
+        {
+          "target": 2,
+          "yaw": 86.073,
+          "label": "Receção",
+          "distance": 2.1
+        },
+        {
+          "target": 8,
+          "yaw": -50.727,
+          "label": "Acesso à cafetaria",
+          "distance": 2.1
+        },
+        {
+          "target": 22,
+          "yaw": 21.273,
+          "label": "Escadas · Primeiro lanço",
+          "distance": 2.1
+        }
+      ]
+    },
+    {
+      "title": "Acesso à cafetaria",
+      "resource": "PACTTour/Buildings/Photos/IMG_20261012_101435_00_merged",
+      "rotation": 307.309,
+      "links": [
+        {
+          "target": 7,
+          "yaw": 127.309,
+          "label": "Átrio · Zona de estar",
+          "distance": 2.1
+        },
+        {
+          "target": 9,
+          "yaw": -52.691,
+          "label": "Corredor da cafetaria",
+          "distance": 2.1
+        }
+      ]
+    },
+    {
+      "title": "Corredor da cafetaria",
+      "resource": "PACTTour/Buildings/Photos/IMG_20261012_101524_00_merged",
+      "rotation": 305.345,
+      "links": [
+        {
+          "target": 8,
+          "yaw": 125.345,
+          "label": "Acesso à cafetaria",
+          "distance": 2.1
+        },
+        {
+          "target": 10,
+          "yaw": -54.655,
+          "label": "Cafetaria · Acesso",
+          "distance": 2.1
+        }
+      ]
+    },
+    {
+      "title": "Cafetaria · Acesso",
+      "resource": "PACTTour/Buildings/Photos/IMG_20261012_101615_00_merged",
+      "rotation": 303.382,
+      "links": [
+        {
+          "target": 9,
+          "yaw": 123.382,
+          "label": "Corredor da cafetaria",
+          "distance": 2.1
+        },
+        {
+          "target": 11,
+          "yaw": -56.618,
+          "label": "Cafetaria · Entrada",
+          "distance": 2.1
+        }
+      ]
+    },
+    {
+      "title": "Cafetaria · Entrada",
+      "resource": "PACTTour/Buildings/Photos/IMG_20261012_101715_00_merged",
+      "rotation": 301.418,
+      "links": [
+        {
+          "target": 10,
+          "yaw": 121.418,
+          "label": "Cafetaria · Acesso",
+          "distance": 2.1
+        },
+        {
+          "target": 12,
+          "yaw": -130.582,
+          "label": "Cafetaria · Balcão",
+          "distance": 2.1
+        },
+        {
+          "target": 16,
+          "yaw": -58.582,
+          "label": "Corredor · Instalações sanitárias",
+          "distance": 2.1
+        }
+      ]
+    },
+    {
+      "title": "Cafetaria · Balcão",
+      "resource": "PACTTour/Buildings/Photos/IMG_20261012_101849_00_merged",
+      "rotation": 227.455,
+      "links": [
+        {
+          "target": 11,
+          "yaw": 47.455,
+          "label": "Cafetaria · Entrada",
+          "distance": 2.1
+        },
+        {
+          "target": 15,
+          "yaw": 155.455,
+          "label": "Cafetaria · Zona de refeições",
+          "distance": 2.1
+        }
+      ]
+    },
+    {
+      "title": "Cafetaria · Zona aberta",
+      "resource": "PACTTour/Buildings/Photos/IMG_20261012_102003_00_merged",
+      "rotation": 322.364,
+      "links": [
+        {
+          "target": 14,
+          "yaw": -37.636,
+          "label": "Cafetaria · Mesas",
+          "distance": 2.1
+        },
+        {
+          "target": 1,
+          "yaw": 88.364,
+          "label": "Átrio",
+          "distance": 2.1
+        }
+      ]
+    },
+    {
+      "title": "Cafetaria · Mesas",
+      "resource": "PACTTour/Buildings/Photos/IMG_20261012_102233_00_merged",
+      "rotation": 324.327,
+      "links": [
+        {
+          "target": 15,
+          "yaw": -35.673,
+          "label": "Cafetaria · Zona de refeições",
+          "distance": 2.1
+        },
+        {
+          "target": 13,
+          "yaw": 144.327,
+          "label": "Cafetaria · Zona aberta",
+          "distance": 2.1
+        }
+      ]
+    },
+    {
+      "title": "Cafetaria · Zona de refeições",
+      "resource": "PACTTour/Buildings/Photos/IMG_20261012_102317_00_merged",
+      "rotation": 315.491,
+      "links": [
+        {
+          "target": 12,
+          "yaw": -26.509,
+          "label": "Cafetaria · Balcão",
+          "distance": 2.1
+        },
+        {
+          "target": 14,
+          "yaw": 146.291,
+          "label": "Cafetaria · Mesas",
+          "distance": 2.1
+        }
+      ]
+    },
+    {
+      "title": "Corredor · Instalações sanitárias",
+      "resource": "PACTTour/Buildings/Photos/IMG_20261012_103028_00_merged",
+      "rotation": 301.418,
+      "links": [
+        {
+          "target": 11,
+          "yaw": 121.418,
+          "label": "Cafetaria · Entrada",
+          "distance": 2.1
+        }
+      ]
+    },
+    {
+      "title": "Gabinetes · Entrada",
+      "resource": "PACTTour/Buildings/Photos/IMG_20261012_103249_00_merged",
+      "rotation": 41.236,
+      "links": [
+        {
+          "target": 6,
+          "yaw": -138.764,
+          "label": "Acesso aos gabinetes",
+          "distance": 2.1
+        },
+        {
+          "target": 18,
+          "yaw": 41.236,
+          "label": "Gabinetes · Corredor",
+          "distance": 2.1
+        }
+      ]
+    },
+    {
+      "title": "Gabinetes · Corredor",
+      "resource": "PACTTour/Buildings/Photos/IMG_20261012_103405_00_merged",
+      "rotation": 41.236,
+      "links": [
+        {
+          "target": 17,
+          "yaw": -138.764,
+          "label": "Gabinetes · Entrada",
+          "distance": 2.1
+        },
+        {
+          "target": 19,
+          "yaw": 41.236,
+          "label": "Gabinetes · Corredor",
+          "distance": 2.1
+        }
+      ]
+    },
+    {
+      "title": "Gabinetes · Corredor",
+      "resource": "PACTTour/Buildings/Photos/IMG_20261012_103505_00_merged",
+      "rotation": 41.236,
+      "links": [
+        {
+          "target": 18,
+          "yaw": -138.764,
+          "label": "Gabinetes · Corredor",
+          "distance": 2.1
+        },
+        {
+          "target": 20,
+          "yaw": 41.236,
+          "label": "Gabinetes · Corredor",
+          "distance": 2.1
+        }
+      ]
+    },
+    {
+      "title": "Gabinetes · Corredor",
+      "resource": "PACTTour/Buildings/Photos/IMG_20261012_103611_00_merged",
+      "rotation": 41.236,
+      "links": [
+        {
+          "target": 19,
+          "yaw": -138.764,
+          "label": "Gabinetes · Corredor",
+          "distance": 2.1
+        },
+        {
+          "target": 21,
+          "yaw": 41.236,
+          "label": "Gabinetes · Final do corredor",
+          "distance": 2.1
+        }
+      ]
+    },
+    {
+      "title": "Gabinetes · Final do corredor",
+      "resource": "PACTTour/Buildings/Photos/IMG_20261012_103656_00_merged",
+      "rotation": 41.236,
+      "links": [
+        {
+          "target": 20,
+          "yaw": -138.764,
+          "label": "Gabinetes · Corredor",
+          "distance": 2.1
+        }
+      ]
+    },
+    {
+      "title": "Escadas · Primeiro lanço",
+      "resource": "PACTTour/Buildings/Photos/IMG_20261012_103847_00_merged",
+      "rotation": 21.273,
+      "links": [
+        {
+          "target": 7,
+          "yaw": -158.727,
+          "label": "Átrio · Zona de estar",
+          "distance": 2.1
+        },
+        {
+          "target": 23,
+          "yaw": 21.273,
+          "label": "Escadas · Patamar",
+          "distance": 2.1
+        }
+      ]
+    },
+    {
+      "title": "Escadas · Patamar",
+      "resource": "PACTTour/Buildings/Photos/IMG_20261012_103942_00_merged",
+      "rotation": 21.273,
+      "links": [
+        {
+          "target": 22,
+          "yaw": -158.727,
+          "label": "Escadas · Primeiro lanço",
+          "distance": 2.1
+        },
+        {
+          "target": 24,
+          "yaw": -86.727,
+          "label": "Escadas · Segundo lanço",
+          "distance": 2.1
+        }
+      ]
+    },
+    {
+      "title": "Escadas · Segundo lanço",
+      "resource": "PACTTour/Buildings/Photos/IMG_20261012_104041_00_merged",
+      "rotation": 158.073,
+      "links": [
+        {
+          "target": 23,
+          "yaw": 93.273,
+          "label": "Escadas · Patamar",
+          "distance": 2.1
+        },
+        {
+          "target": 25,
+          "yaw": 158.073,
+          "label": "Piso superior · Zona de trabalho",
+          "distance": 2.1
+        }
+      ]
+    },
+    {
+      "title": "Piso superior · Zona de trabalho",
+      "resource": "PACTTour/Buildings/Photos/IMG_20261012_104144_00_merged",
+      "rotation": 158.073,
+      "links": [
+        {
+          "target": 24,
+          "yaw": -21.927,
+          "label": "Escadas · Segundo lanço",
+          "distance": 2.1
+        },
+        {
+          "target": 26,
+          "yaw": 158.073,
+          "label": "Piso superior · Zona de trabalho",
+          "distance": 2.1
+        },
+        {
+          "target": 36,
+          "yaw": -65.127,
+          "label": "Piso superior · Zona de estar",
+          "distance": 2.1
+        }
+      ]
+    },
+    {
+      "title": "Piso superior · Zona de trabalho",
+      "resource": "PACTTour/Buildings/Photos/IMG_20261012_104311_00_merged",
+      "rotation": 158.073,
+      "links": [
+        {
+          "target": 25,
+          "yaw": -21.927,
+          "label": "Piso superior · Zona de trabalho",
+          "distance": 2.1
+        },
+        {
+          "target": 27,
+          "yaw": 158.073,
+          "label": "Piso superior · Elevador",
+          "distance": 2.1
+        }
+      ]
+    },
+    {
+      "title": "Piso superior · Elevador",
+      "resource": "PACTTour/Buildings/Photos/IMG_20261012_104431_00_merged",
+      "rotation": 158.073,
+      "links": [
+        {
+          "target": 26,
+          "yaw": -21.927,
+          "label": "Piso superior · Zona de trabalho",
+          "distance": 2.1
+        },
+        {
+          "target": 28,
+          "yaw": -176.727,
+          "label": "Piso superior · Distribuição",
+          "distance": 2.1
+        }
+      ]
+    },
+    {
+      "title": "Piso superior · Distribuição",
+      "resource": "PACTTour/Buildings/Photos/IMG_20261012_104536_00_merged",
+      "rotation": 183.273,
+      "links": [
+        {
+          "target": 27,
+          "yaw": 3.273,
+          "label": "Piso superior · Elevador",
+          "distance": 2.1
+        },
+        {
+          "target": 29,
+          "yaw": -176.727,
+          "label": "Piso superior · Auditório e corredores",
+          "distance": 2.1
+        }
+      ]
+    },
+    {
+      "title": "Piso superior · Auditório e corredores",
+      "resource": "PACTTour/Buildings/Photos/IMG_20261012_104653_00_merged",
+      "rotation": 183.273,
+      "links": [
+        {
+          "target": 28,
+          "yaw": 3.273,
+          "label": "Piso superior · Distribuição",
+          "distance": 2.1
+        },
+        {
+          "target": 30,
+          "yaw": -176.727,
+          "label": "Auditório · Entrada",
+          "distance": 2.1
+        },
+        {
+          "target": 48,
+          "yaw": -86.727,
+          "label": "Piso superior · Galeria",
+          "distance": 2.1
+        }
+      ]
+    },
+    {
+      "title": "Auditório · Entrada",
+      "resource": "PACTTour/Buildings/Photos/IMG_20261012_105232_00_merged",
+      "rotation": 183.273,
+      "links": [
+        {
+          "target": 29,
+          "yaw": 3.273,
+          "label": "Piso superior · Auditório e corredores",
+          "distance": 2.1
+        },
+        {
+          "target": 31,
+          "yaw": -176.727,
+          "label": "Auditório · Fila superior",
+          "distance": 2.1
+        }
+      ]
+    },
+    {
+      "title": "Auditório · Fila superior",
+      "resource": "PACTTour/Buildings/Photos/IMG_20261012_105341_00_merged",
+      "rotation": 183.273,
+      "links": [
+        {
+          "target": 30,
+          "yaw": 3.273,
+          "label": "Auditório · Entrada",
+          "distance": 2.1
+        },
+        {
+          "target": 32,
+          "yaw": -176.727,
+          "label": "Auditório · Vista central",
+          "distance": 2.1
+        }
+      ]
+    },
+    {
+      "title": "Auditório · Vista central",
+      "resource": "PACTTour/Buildings/Photos/IMG_20261012_105518_00_merged",
+      "rotation": 183.273,
+      "links": [
+        {
+          "target": 31,
+          "yaw": 3.273,
+          "label": "Auditório · Fila superior",
+          "distance": 2.1
+        },
+        {
+          "target": 34,
+          "yaw": -176.727,
+          "label": "Auditório · Plateia",
+          "distance": 2.1
+        },
+        {
+          "target": 33,
+          "yaw": -86.727,
+          "label": "Ver projeção",
+          "distance": 2.1
+        }
+      ]
+    },
+    {
+      "title": "Auditório · Projeção",
+      "resource": "PACTTour/Buildings/Photos/IMG_20261012_105544_00_merged",
+      "rotation": 3.273,
+      "links": [
+        {
+          "target": 32,
+          "yaw": 93.273,
+          "label": "Voltar à vista sem projeção",
+          "distance": 2.1
+        }
+      ]
+    },
+    {
+      "title": "Auditório · Plateia",
+      "resource": "PACTTour/Buildings/Photos/IMG_20261012_105640_00_merged",
+      "rotation": 183.273,
+      "links": [
+        {
+          "target": 32,
+          "yaw": 3.273,
+          "label": "Auditório · Vista central",
+          "distance": 2.1
+        },
+        {
+          "target": 35,
+          "yaw": -176.727,
+          "label": "Auditório · Junto ao palco",
+          "distance": 2.1
+        }
+      ]
+    },
+    {
+      "title": "Auditório · Junto ao palco",
+      "resource": "PACTTour/Buildings/Photos/IMG_20261012_105755_00_merged",
+      "rotation": 183.273,
+      "links": [
+        {
+          "target": 34,
+          "yaw": 3.273,
+          "label": "Auditório · Plateia",
+          "distance": 2.1
+        }
+      ]
+    },
+    {
+      "title": "Piso superior · Zona de estar",
+      "resource": "PACTTour/Buildings/Photos/IMG_20261012_105946_00_merged",
+      "rotation": 53.673,
+      "links": [
+        {
+          "target": 25,
+          "yaw": 114.873,
+          "label": "Piso superior · Zona de trabalho",
+          "distance": 2.1
+        },
+        {
+          "target": 37,
+          "yaw": 53.673,
+          "label": "Gabinetes · Acesso",
+          "distance": 2.1
+        }
+      ]
+    },
+    {
+      "title": "Gabinetes · Acesso",
+      "resource": "PACTTour/Buildings/Photos/IMG_20261012_110040_00_merged",
+      "rotation": 53.673,
+      "links": [
+        {
+          "target": 36,
+          "yaw": -126.327,
+          "label": "Piso superior · Zona de estar",
+          "distance": 2.1
+        },
+        {
+          "target": 38,
+          "yaw": 53.673,
+          "label": "Gabinetes · Entrada",
+          "distance": 2.1
+        }
+      ]
+    },
+    {
+      "title": "Gabinetes · Entrada",
+      "resource": "PACTTour/Buildings/Photos/IMG_20261012_110128_00_merged",
+      "rotation": 71.673,
+      "links": [
+        {
+          "target": 37,
+          "yaw": -126.327,
+          "label": "Gabinetes · Acesso",
+          "distance": 2.1
+        },
+        {
+          "target": 39,
+          "yaw": 71.673,
+          "label": "Gabinetes · Bifurcação",
+          "distance": 2.1
+        }
+      ]
+    },
+    {
+      "title": "Gabinetes · Bifurcação",
+      "resource": "PACTTour/Buildings/Photos/IMG_20261012_110213_00_merged",
+      "rotation": 93.273,
+      "links": [
+        {
+          "target": 38,
+          "yaw": -108.327,
+          "label": "Gabinetes · Entrada",
+          "distance": 2.1
+        },
+        {
+          "target": 40,
+          "yaw": 93.273,
+          "label": "Gabinetes · A2.09",
+          "distance": 2.1
+        },
+        {
+          "target": 43,
+          "yaw": 3.273,
+          "label": "Gabinetes · Pátio interior",
+          "distance": 2.1
+        }
+      ]
+    },
+    {
+      "title": "Gabinetes · A2.09",
+      "resource": "PACTTour/Buildings/Photos/IMG_20261012_110256_00_merged",
+      "rotation": 93.273,
+      "links": [
+        {
+          "target": 39,
+          "yaw": -86.727,
+          "label": "Gabinetes · Bifurcação",
+          "distance": 2.1
+        },
+        {
+          "target": 41,
+          "yaw": 93.273,
+          "label": "Gabinetes · Sala multiusos 1",
+          "distance": 2.1
+        }
+      ]
+    },
+    {
+      "title": "Gabinetes · Sala multiusos 1",
+      "resource": "PACTTour/Buildings/Photos/IMG_20261012_110350_00_merged",
+      "rotation": 93.273,
+      "links": [
+        {
+          "target": 40,
+          "yaw": -86.727,
+          "label": "Gabinetes · A2.09",
+          "distance": 2.1
+        },
+        {
+          "target": 42,
+          "yaw": 93.273,
+          "label": "Gabinetes · A2.06",
+          "distance": 2.1
+        }
+      ]
+    },
+    {
+      "title": "Gabinetes · A2.06",
+      "resource": "PACTTour/Buildings/Photos/IMG_20261012_110452_00_merged",
+      "rotation": 93.273,
+      "links": [
+        {
+          "target": 41,
+          "yaw": -86.727,
+          "label": "Gabinetes · Sala multiusos 1",
+          "distance": 2.1
+        }
+      ]
+    },
+    {
+      "title": "Gabinetes · Pátio interior",
+      "resource": "PACTTour/Buildings/Photos/IMG_20261012_110548_00_merged",
+      "rotation": 3.273,
+      "links": [
+        {
+          "target": 39,
+          "yaw": -176.727,
+          "label": "Gabinetes · Bifurcação",
+          "distance": 2.1
+        },
+        {
+          "target": 44,
+          "yaw": 3.273,
+          "label": "Gabinetes · Corredor lateral",
+          "distance": 2.1
+        }
+      ]
+    },
+    {
+      "title": "Gabinetes · Corredor lateral",
+      "resource": "PACTTour/Buildings/Photos/IMG_20261012_110633_00_merged",
+      "rotation": 3.273,
+      "links": [
+        {
+          "target": 43,
+          "yaw": -176.727,
+          "label": "Gabinetes · Pátio interior",
+          "distance": 2.1
+        },
+        {
+          "target": 45,
+          "yaw": 3.273,
+          "label": "Gabinetes · A2.01",
+          "distance": 2.1
+        }
+      ]
+    },
+    {
+      "title": "Gabinetes · A2.01",
+      "resource": "PACTTour/Buildings/Photos/IMG_20261012_110741_00_merged",
+      "rotation": 352.473,
+      "links": [
+        {
+          "target": 44,
+          "yaw": -176.727,
+          "label": "Gabinetes · Corredor lateral",
+          "distance": 2.1
+        },
+        {
+          "target": 46,
+          "yaw": 82.473,
+          "label": "Gabinetes · Corredor de ligação",
+          "distance": 2.1
+        }
+      ]
+    },
+    {
+      "title": "Gabinetes · Corredor de ligação",
+      "resource": "PACTTour/Buildings/Photos/IMG_20261012_110846_00_merged",
+      "rotation": 82.473,
+      "links": [
+        {
+          "target": 45,
+          "yaw": -97.527,
+          "label": "Gabinetes · A2.01",
+          "distance": 2.1
+        },
+        {
+          "target": 47,
+          "yaw": 82.473,
+          "label": "Gabinetes · Final do corredor",
+          "distance": 2.1
+        }
+      ]
+    },
+    {
+      "title": "Gabinetes · Final do corredor",
+      "resource": "PACTTour/Buildings/Photos/IMG_20261012_110936_00_merged",
+      "rotation": 82.473,
+      "links": [
+        {
+          "target": 46,
+          "yaw": -97.527,
+          "label": "Gabinetes · Corredor de ligação",
+          "distance": 2.1
+        }
+      ]
+    },
+    {
+      "title": "Piso superior · Galeria",
+      "resource": "PACTTour/Buildings/Photos/IMG_20261012_111137_00_merged",
+      "rotation": 273.273,
+      "links": [
+        {
+          "target": 29,
+          "yaw": 93.273,
+          "label": "Piso superior · Auditório e corredores",
+          "distance": 2.1
+        },
+        {
+          "target": 49,
+          "yaw": -86.727,
+          "label": "Galeria · Entrada do corredor",
+          "distance": 2.1
+        }
+      ]
+    },
+    {
+      "title": "Galeria · Entrada do corredor",
+      "resource": "PACTTour/Buildings/Photos/IMG_20261012_111220_00_merged",
+      "rotation": 273.273,
+      "links": [
+        {
+          "target": 48,
+          "yaw": 93.273,
+          "label": "Piso superior · Galeria",
+          "distance": 2.1
+        },
+        {
+          "target": 50,
+          "yaw": -176.727,
+          "label": "Galeria · História do CEiiA",
+          "distance": 2.1
+        }
+      ]
+    },
+    {
+      "title": "Galeria · História do CEiiA",
+      "resource": "PACTTour/Buildings/Photos/IMG_20261012_111319_00_merged",
+      "rotation": 183.273,
+      "links": [
+        {
+          "target": 49,
+          "yaw": 3.273,
+          "label": "Galeria · Entrada do corredor",
+          "distance": 2.1
+        },
+        {
+          "target": 51,
+          "yaw": -176.727,
+          "label": "Galeria · História do CEiiA",
+          "distance": 2.1
+        }
+      ]
+    },
+    {
+      "title": "Galeria · História do CEiiA",
+      "resource": "PACTTour/Buildings/Photos/IMG_20261012_111414_00_merged",
+      "rotation": 183.273,
+      "links": [
+        {
+          "target": 50,
+          "yaw": 3.273,
+          "label": "Galeria · História do CEiiA",
+          "distance": 2.1
+        },
+        {
+          "target": 52,
+          "yaw": -176.727,
+          "label": "Galeria · A2.12",
+          "distance": 2.1
+        }
+      ]
+    },
+    {
+      "title": "Galeria · A2.12",
+      "resource": "PACTTour/Buildings/Photos/IMG_20261012_111518_00_merged",
+      "rotation": 183.273,
+      "links": [
+        {
+          "target": 51,
+          "yaw": 3.273,
+          "label": "Galeria · História do CEiiA",
+          "distance": 2.1
+        },
+        {
+          "target": 53,
+          "yaw": -176.727,
+          "label": "Galeria · A2.11",
+          "distance": 2.1
+        }
+      ]
+    },
+    {
+      "title": "Galeria · A2.11",
+      "resource": "PACTTour/Buildings/Photos/IMG_20261012_111627_00_merged",
+      "rotation": 183.273,
+      "links": [
+        {
+          "target": 52,
+          "yaw": 3.273,
+          "label": "Galeria · A2.12",
+          "distance": 2.1
+        }
+      ]
+    }
+  ]
+}

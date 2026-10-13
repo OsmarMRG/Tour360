@@ -1,0 +1,8 @@
+voz01.wav
+Bem-vindo à visita virtual do PACT. Sou o guia desta demonstração. Aponta para o marcador no chão e seleciona-o para avançar pelo corredor.
+
+voz02.wav
+Este é o segundo ponto do corredor. Na versão completa, ao entrares numa sala, o guia apresenta o espaço e a empresa. Os textos e as vozes podem ser alterados.
+
+voz03.wav
+Chegaste ao último ponto desta demonstração. Podes olhar em redor, repetir a apresentação ou voltar ao início. O próximo passo é acrescentar fotografias do interior das salas.
